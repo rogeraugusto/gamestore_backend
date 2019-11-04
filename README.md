@@ -20,18 +20,8 @@ Gamestore API
 4. Run `mongod` to start MongoDB<br />
 5. Run `yarn start`
 
-## Testing
-
-- Import the Insomnia's Workspace requests file called `Insomnia_Requests.json` found on this project root folder
-
 ## Features
 
 - MVC Pattern
-
-## - Object schema validation with **Joi**
-
 - Paginated response with **mongoose-paginate**
-
-## - Some _filters_ and _validations_ implemented on _Product_, _History_ and _Cart_ controllers
-
-## - Auth middleware with **JWT authentication** to _users_ and _sessions_ routes (but commented, not requested on this challenge)
+- Auth middleware with **JWT authentication** to _users_ and _sessions_ routes
