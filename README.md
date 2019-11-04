@@ -1,8 +1,8 @@
 <h1 align="center">
-Gamestore API
+Gamestore API - Backend
 </h1>
 
-<p align="center">An a exemple of a REST API in Node.js and MongoDB, using Express and Mongoose.</p>
+<p align="center">An a example of a REST API in Node.js and MongoDB, using Express and Mongoose.</p>
 
 <hr>
 
